@@ -1,0 +1,2 @@
+# studio-whip-shea
+Studio de marketing IA ultra-premium pour cosmétiques et gastronomie. Académie de prompting expert, templates Instagram-ready et application installable PWA.
