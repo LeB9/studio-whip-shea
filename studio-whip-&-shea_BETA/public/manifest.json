@@ -1,0 +1,21 @@
+{
+  "name": "Studio Whip & Shea - AI Marketing",
+  "short_name": "Whip & Shea",
+  "description": "Studio de marketing IA ultra-premium pour cosmétiques et gastronomie. Académie de prompting expert, templates Instagram-ready et application installable PWA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F9",
+  "theme_color": "#FF4D8D",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/whipshea-logo/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/whipshea-logo/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
